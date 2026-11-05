@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CommissionWala</string>
+    <string name="tagline">Share Products. Scan QR. Earn Instant Commissions.</string>
+    <string name="admin_portal_title">Admin Command Center</string>
+    <string name="user_portal_title">Affiliate Partner Hub</string>
+    <string name="action_download">Download</string>
+    <string name="action_download_qr">Download QR</string>
+    <string name="action_download_statement">Download Statement</string>
+    <string name="action_download_report">Download Sales Report</string>
+</resources>
